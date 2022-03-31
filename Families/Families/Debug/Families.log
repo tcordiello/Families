@@ -1,0 +1,5 @@
+﻿  Families.cpp
+  FamilyClass.cpp
+K:\Schgoool\Projects\Projects\Families\Families\FamilyClass.cpp(68,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Families.vcxproj -> K:\Schgoool\Projects\Projects\Families\Debug\Families.exe
